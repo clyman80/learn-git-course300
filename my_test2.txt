@@ -1,0 +1,4 @@
+second file
+hi
+some junk text
+bye
