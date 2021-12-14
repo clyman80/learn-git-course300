@@ -1,4 +1,5 @@
 second file
 hi
 some other junk
+and some other other junk
 bye

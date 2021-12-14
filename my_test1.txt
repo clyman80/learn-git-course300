@@ -3,6 +3,7 @@ test1
 test4
 new_test1
 test6
+test 6.5
 new_test2
 test7
 bye
